@@ -2,7 +2,7 @@
 
 # Automação Residencial
 
-Um projeto para autamatizar um residencia e tornala uma casa do futuro.
+Um projeto para automatizar um residencia e tornala uma casa do futuro.
 
 ### 🔗Links úteis
 [Biblioteca ESP8266](https://arduino.esp8266.com/stable/package_esp8266com_index.json)
