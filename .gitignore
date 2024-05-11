@@ -1,0 +1,32 @@
+# Ignore Arduino IDE-specific files
+*.ino.bak
+*.ino.merged
+*.elf
+*.hex
+*.eep
+*.debug
+core*
+
+# Ignore node_modules and npm-related files
+node_modules/
+package-lock.json
+
+# Ignore generated files and directories
+build/
+dist/
+tmp/
+
+# Ignore external credentials file (for security)
+credentials.env
+
+# Ignore IDE settings and preferences
+.vscode/
+settings.json
+
+# Ignore any potential log or temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore specific files or directories if needed
+# Add more patterns as needed
